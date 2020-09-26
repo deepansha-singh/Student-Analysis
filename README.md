@@ -1,7 +1,7 @@
 # Student Analysis
 
 
-**PROBLEM STATEMENT
+**PROBLEM STATEMENT**
 
 gender                      : Gender of the student
 
@@ -21,6 +21,6 @@ writing score               : Scores in Writing
 
 
 
-**OBJECTIVE OF THE ANALYSIS
+**OBJECTIVE OF THE ANALYSIS**
 
 To understand how the student's performance (test scores) is affected by the other variables (Gender, Ethnicity, Parental level of education, Lunch, Test preparation course).
